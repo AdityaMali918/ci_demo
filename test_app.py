@@ -48,3 +48,4 @@ def test_sub_parametrized(a, b, expected):
 )
 def test_mul_parametrized(a, b, expected):
     assert mul(a, b) == expected
+    
